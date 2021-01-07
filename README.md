@@ -1,3 +1,5 @@
+**This library need for work ibeacon in [kinchaku_app](https://github.com/SeteMares/kinchaku_app)!**
+
 React Native Module that broadcasts an iBeacon uuid.
 
 # Setup
