@@ -1,6 +1,6 @@
 {
   "name": "react-native-ibeacon-simulator",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "A cool package for simulate your iOS devices as beacon",
   "homepage": "https://github.com/SeteMares/react-native-ibeacon-simulator",
   "nativePackage": true,
@@ -15,5 +15,6 @@
     "ibeacon",
     "beacon simulator"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Flow"
 }
